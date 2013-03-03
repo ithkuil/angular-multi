@@ -1,0 +1,11 @@
+{
+	"test": {
+		"firstname": {
+			"label" : "First Name"
+		},
+		"lastname": {
+			"label": "Last Name"
+		}
+	}
+
+}

@@ -1,0 +1,12 @@
+{
+	"test":
+	[
+		{	"name": "firstname",
+			"type": "text"
+		},
+		{ "name": "lastname",
+			"type": "text",
+			"required": true
+		}
+	]
+}
